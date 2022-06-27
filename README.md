@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My Github Stats
+### My Github Stats Card
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PratibhaHalyal&theme=highcontrast&show_icons=true&count_private=true)
 
 ### Languages Card
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=PratibhaHalyal)
+
+<!--[![PratibhaHalyal](https://github-readme-stats.vercel.app/api/pin/?username=PratibhaHalyal&repo=PratibhaHalyal)](https://github.com/PratibhaHalyal/PratibhaHalyal)
+[![PratibhaHalyal](https://github-readme-stats.vercel.app/api/pin/?username=PratibhaHalyal&repo=PratibhaHalyal&show_owner=true)](https://github.com/PratibhaHalyal/PratibhaHalyal)-->
